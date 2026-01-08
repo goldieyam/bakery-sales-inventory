@@ -43,7 +43,7 @@ This project demonstrates SQL data validation, multi-table joins, aggregations, 
 ---
 
 ## Key Findings
-* **Total daily revenue ** shows that Monday generated the highest total revenue, highlighting peak sales at the start of the week.  
+* **Total daily revenue** shows that Monday generated the highest total revenue, highlighting peak sales at the start of the week.  
   - This insight can guide staffing, production planning, and promotional efforts for high-demand days.  
 * **Top-selling baked goods** reveal that **Sugar Cookies** had the highest quantity sold, indicating customer preferences and best-performing products.  
   - Charts of top products can be used in dashboards to highlight sales distribution, marketing choices and guide inventory decisions.  
@@ -82,4 +82,5 @@ See screenshot of dashboard generated from Power BI using the bakery data that s
 ---
 
 ## Conclusion
+
 This analysis demonstrates how SQL can reveal key insights from bakery sales and operations data. It highlights revenue trends, top-selling products, average order values, returning customer behaviour, and ingredient usage. These findings can guide business decisions such as inventory management, staffing, and promotions, while Power BI dashboards provide a clear visual summary of performance.
