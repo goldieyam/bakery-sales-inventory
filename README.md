@@ -22,7 +22,7 @@ This project demonstrates SQL data validation, multi-table joins, aggregations, 
 
 ## Project Goals
 * To **calculate**  the **total revenue for each day of the week** to identify peak days with the most business. This was done instead of finding revenue of every day to generate seasonal data that can allow one to identify trends and growth due to the limitations of small dataset size.
-* To **identify** which products are the most popular** and drive marketing decisions. Top selling products are identified using quantity sold not revenue as higher price per unit on a product can skew this metric
+* To **identify** which products are the **most popular** and drive marketing decisions. Top selling products are identified using quantity sold not revenue as higher price per unit on a product can skew this metric
 * To **generate metrics**  which can be used in KPIs such as the **average spend per order**
 * To **generate data** to be used to calculate **percentage of repeat customers**
 * To **compare** time taken to produce products **vs** how well it's selling, this helps identified if too much time has been taken to make products with lower sales.
@@ -33,7 +33,7 @@ This project demonstrates SQL data validation, multi-table joins, aggregations, 
 ## Skills Demonstrated
 * SQL **JOINs** across multiple tables (`orders`, `baked_good`, `recipe`, `ingredient`, `customer`)  
 * Aggregating and analysing data with `SUM`, `AVG`, and `COUNT`  
-* Grouping and categorising data with `GROUP BY` and conditional logic (`CASE`)  
+* Grouping and categorising data with `GROUP BY` and conditional logic with `CASE` 
 * Ranking and filtering results using `ORDER BY` and `LIMIT`  
 * Performing data validation and schema inspection using `PRAGMA`  
 * Extracting actionable business insights, including revenue trends, top-selling products, average customer spend, and ingredient usage  
@@ -84,3 +84,4 @@ See screenshot of dashboard generated from Power BI using the bakery data that s
 ## Conclusion
 
 This analysis demonstrates how SQL can reveal key insights from bakery sales and operations data. It highlights revenue trends, top-selling products, average order values, returning customer behaviour, and ingredient usage. These findings can guide business decisions such as inventory management, staffing, and promotions, while Power BI dashboards provide a clear visual summary of performance.
+
