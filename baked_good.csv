@@ -1,0 +1,23 @@
+BakedGoodID,Name,Category,UnitPrice,StockQuantitiy,PrepTimeMins
+BAK001,Apple Pie,Pie,10,6,90
+BAK002,Baguette,Bread,5,15,240
+BAK003,Blueberry Pie,Pie,12,6,90
+BAK004,Brioche,Bread,5,12,180
+BAK005,Brownie,Dessert,3,24,45
+BAK006,Cheesecake,Cake,15,4,120
+BAK007,Cherry Pie,Pie,12,6,90
+BAK008,Chocolate Cupcake,Cake,2,20,40
+BAK009,Cinnamon Roll,Pastry,4,15,120
+BAK010,Crossiant,Pastry,3,20,180
+BAK011,Focaccia ,Bread,6,10,150
+BAK012,Macaron,Biscuit,1,30,90
+BAK013,Milk Bread,Bread,10,12,180
+BAK014,Pumpkin Pie,Pie,12,6,90
+BAK015,Red Velvet Cake,Cake,21,8,60
+BAK016,Shortbread,Biscuit,0.7,40,40
+BAK017,Snickerdoodle,Biscuit,0.7,30,30
+BAK018,Tiger Loaf,Bread,8,10,240
+BAK019,Strawberry Shortcake,Cake,7,8,60
+BAK020,Sugar Cookie,Biscuit,0.7,50,45
+BAK021,Tiramisu,Dessert,7,5,60
+BAK022,Scone,Pastry,0.8,25,35

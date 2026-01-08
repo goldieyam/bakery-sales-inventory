@@ -1,0 +1,42 @@
+IngredientID,Name,Unit,StockQuantitiy,MinReorder
+ING021,Frosting,grams,300,200
+ING028,Almond Flour,grams,100,20
+ING009,Apples,units,30,10
+ING019,Baking Powder,grams,500,100
+ING020,Baking Soda,grams,300,100
+ING011,Blueberries,grams,1500,300
+ING003,Butter,grams,3000,500
+ING024,Buttermilk,ml,1000,200
+ING010,Cherries,units,20,5
+ING005,Cinnamon,grams,200,50
+ING018,Cocoa Powder,grams,1000,200
+ING038,Chocolate Chunks,grams,100,20
+ING036,Coffee,grams,250,50
+ING033,Condensed Milk,grams,800,100
+ING013,Cornstarch,grams,1000,300
+ING025,Cream,ml,500,100
+ING015,Cream Cheese,grams,1500,300
+ING040,Cream of Tartar,grams,100,20
+ING030,Egg Whites,units,20,5
+ING004,Eggs,units,120,30
+ING001,Flour,grams,5000,1000
+ING031,Food Colouring,ml,1000,200
+ING016,Graham Crackers,grams,600,100
+ING029,Icing Sugar,grams,60,10
+ING037,Ladyfingers,units,100,20
+ING012,Lemon Juice,ml,300,100
+ING035,Mascarpone,grams,50,10
+ING014,Milk,ml,2000,500
+ING006,Nutmeg,grams,100,20
+ING027,Olive Oil,ml,300,50
+ING032,Pumpkin Puree,grams,500,100
+ING022,Maple Flavouring,grams,260,50
+ING026,Rosemary,grams,100,20
+ING039,Rum,ml,300,50
+ING008,Salt,grams,800,150
+ING034,Strawberries,grams,400,100
+ING002,Sugar,grams,4000,1000
+ING017,Vanilla Extract,ml,250,50
+ING023,Vinegar,ml,100,20
+ING041,Water,ml,,
+ING007,Yeast,grams,1000,200
